@@ -1,0 +1,45 @@
+# =========================
+# Java
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+
+# If you later use build tools
+target/
+build/
+out/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Packaging / build
+dist/
+build/
+*.egg-info/
+
+# =========================
+# General
+# =========================
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDEs / editors
+.vscode/
+.idea/
+*.iml
