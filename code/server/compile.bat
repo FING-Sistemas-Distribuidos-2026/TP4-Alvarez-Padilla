@@ -1,0 +1,1 @@
+javac -cp ".;jeromq-0.6.0.jar" Server.java
